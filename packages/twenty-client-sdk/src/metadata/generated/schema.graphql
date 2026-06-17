@@ -2990,6 +2990,7 @@ enum AllMetadataName {
   webhook
   applicationVariable
   connectionProvider
+  searchFieldMetadata
 }
 
 type MinimalObjectMetadata {
